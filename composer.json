@@ -1,10 +1,10 @@
 {
-    "name": "magently/package",
+    "name": "ssp34/magently",
     "description": "Some modifications.",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
         "fooman/emailattachments-m2": "^2.0.7",
-        "magently/package": "^1.0"
+        "ssp34/magently": "^1.0"
     },
     "type": "magento2-module",
     "version": "1.0.0",
@@ -15,9 +15,7 @@
         },
        	{
             "type": "artifact",
-            "url": "packages/magently"
+            "url": "ssp34/magently"
        	}
     ]
 }
-
-/*composer require magently/package*/
